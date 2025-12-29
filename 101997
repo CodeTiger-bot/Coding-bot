@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Introduction to HTML</title>
+</head>
+<body>
+    <h1>What HTMLS is. </h1>
+    <p>HTMLS =<em> HyperText Markup Language.</em> <br>It is used to structure websites (text, images, <br>buttons, links).</br></br><br><em>HTML does not think — it only displays.</em></p>
+    <p>Like other coding languages, HTML also has <br>it's own skeleton which is the format or structure followed. </br><br>Without the correct structure your code will not run.</br></p>
+    <p><strong >The Skeleton Of HTML </strong><pre><code><br>1 &lt!DOCTYPE html&gt</br><br>2 &lthtml&gt</br><br>3 &lthead&gt </br><br>4 &lttitle&gtPage title&lt/title&gt</br><br>5 &lt/head&gt</br><br>6 &ltbody&gt</br><br>7 &lt/body&gt</br><br>8 &lt/html&gt</br></code></pre></p>
+<h2><strong>Your first HTML code</strong></h2>
+<p>This is a complete web page:<pre><code><br>1 &lt!DOCTYPE html&gt</br> <br>2 &lthtml&gt</br>  <br>3 &lthead&gt</br> <br>4 &lttitle&gtMy First Page&lt/title&gt</br><br>5 &lt/head&gt</br><br>6 &ltbody&gt </br> <br>7 &lth1&gtHello, world!&lt/h1&gt </br><br>8  &ltp&gtThis is my first website.&lt/p&gt</br><br>9 &lt/body&gt</br><br>10 &lt/html&gt</br></pre></code></p>
+<h3><strong>What each part does:</strong></h3>
+<p><br>&lth1&gt → big heading</br><br>&ltp&gt → paragraph</br><br>&ltbody&gt → what appears on the page</br></p>
+<h4><strong>How HTML works</strong></h4>
+<p>HTML uses tags:<em><pre><code>&lttag&gtcontent&lt/tag&gt</em><br>Examples:&lth1&gt</br> </p>
+</body>
+</html>
